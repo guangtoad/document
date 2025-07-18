@@ -8,6 +8,7 @@
 adb shell screencap -p /sdcard/02.png
 ```
 ### adb 截图并保存到电脑
+
 ```
 adb exec-out screencap -p > screenshot.png
 ```
